@@ -57,15 +57,15 @@ Use with confidence, knowing your device and data remain secure.
 ## 🖼 Preview
 
 **1. SketchUp Installer Interface**  
-![SketchUp Install](https://desktoparchitect.com/wp-content/uploads/2023/10/sketchup.webp)  
+![SketchUp Install](https://static.macupdate.com/screenshots/314525/m/sketchup-screenshot.png?v=1633607997)  
 *Simple and clean installation screen.*
 
 **2. SketchUp Workspace**  
-![SketchUp UI](https://images.adsttc.com/media/images/5923/4023/e58e/ce27/a400/014a/large_jpg/Portada_Consejos_Sketch_Up.jpg?1495482389)  
+![SketchUp UI](https://i.ytimg.com/vi/oSCzMzZ2U8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3E3JFi_9um7em5Z8_-9RTV4EYvA)  
 *User-friendly modeling interface with toolbars and canvas.*
 
 **3. Rendered 3D Model in SketchUp**  
-![SketchUp Render](https://global.discourse-cdn.com/sketchup/original/3X/3/d/3dd05d8f979a4c906bcd4ae2e96b6450d502b0c5.png)  
+![SketchUp Render](https://global.discourse-cdn.com/sketchup/original/3X/5/7/5731c7ac185bbe035e8aa2700e727aaa2540adac.jpeg)  
 *Completed architectural render.*
 
 ---
